@@ -1,2 +1,4 @@
-Here is my fourth assignment of advanced web programming.
-Unfortunately, I used Mysql as a database and not Postgres, because I had lot of issues with the installation...
+this is my web assigment 
+everithing works well,
+i used prosgres to do my database.
+you can add, delete, update, show users.
